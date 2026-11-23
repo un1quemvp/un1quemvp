@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Denis
 
-<!--
-**un1quemvp/un1quemvp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Learning Python backend development and preparing for internship and junior roles.
 
-Here are some ideas to get you started:
+## Now
+- Practicing algorithms: [LeetCode](https://leetcode.com/u/AnichenkovDA/) · [Solutions on GitHub](https://github.com/un1quemvp/algorithms)
+- Studying: Linux, HTTP, SQL, FastAPI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack I'm learning
+Python, Git, Linux, PostgreSQL, FastAPI, Docker
+
+## Contact
+- Telegram: [@un1queV](https://t.me/un1queV)
+- Email: den.anichenkov.00@mail.ru
